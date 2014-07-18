@@ -1,0 +1,13 @@
+body {
+	overflow: hidden;
+}
+
+.cell {
+	padding-left: 20px;
+	width: 290px;
+	height: 100px;
+	background-color: rgb(230, 230, 230);
+	margin-bottom: 10px;
+	font-size: 80px;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
